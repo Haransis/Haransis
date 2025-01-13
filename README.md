@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm a Alban, a French **Freelance Software Developer**. I develop Android Apps in Kotlin. Check out my ![website](https://albanrahier.fr) to know more !
+I'm Alban, a French **Freelance Software Developer**. I develop Android Apps in Kotlin. Check out my ![website](https://albanrahier.fr) to know more !
 
 Let's connect :
 <a href="https://www.linkedin.com/in/albanrahier/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="22" width="22" /></a>
